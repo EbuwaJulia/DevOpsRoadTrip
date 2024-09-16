@@ -29,3 +29,5 @@ This guide is my step by step documentation of how to become a DevOps engineer. 
 8. **Set Up a VPC with Public and Private Subnets**
 9. **Set Up a Basic S3 Backup Solution**
 10. **Build a Simple Dockerized Application and Deploy it to ECS**
+
+#### How to Host a Static Website on S3
