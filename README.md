@@ -5,4 +5,14 @@ This guide is my step by step documentation of how to become a DevOps engineer. 
 
 ### The Various stops on my trip include:
 1. **AWS Fundamentals**
-2. 
+2. **Linux Fundamentals (BashScripting)**
+3. **Networking Concepts (WireShark)**
+4. **Python**
+5. **Containerization with Docker**
+6. **CI/CD with Jenkins and GitLab**
+7. **Kubernetes Fundamentals and Orchestration**
+8. **Networking and Infrastructure (Nginx)**
+9. **Configuration Management (Ansible, Puppet and Chef)**
+10. **Infrastructure As Code (Terraform, AWS Cloud Formation, Pulumi)**
+11. **Monitoring and Logging (Prometheus, Grafana, ELK)**
+12. **DevSecOps (Clair, Aqua)**
