@@ -31,4 +31,5 @@ This guide is my step by step documentation of how to become a DevOps engineer. 
 10. **Build a Simple Dockerized Application and Deploy it to ECS**
 
 #### HOW TO HOST A  STATIC WEBSITE ON S3
+[How to host a static Website on Amazon S3]()
 
