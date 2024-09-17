@@ -21,7 +21,7 @@ This guide is my step by step documentation of how to become a DevOps engineer. 
 #### Hands-On Projects
 1. **Host a Static website on S3**
 2. **Set up Cloud Monitoring Dashboard for an EC2 instance**
-3. **Deploay a simple Web application using Elastic Beasnstalk**
+3. **Deploy a simple Web application using Elastic Beasnstalk**
 4. **Create a basic CI/CD Pipeline Using AWS CodePipeline**
 5. **Automate Infrastructure with AWS CloudFormation**
 6. **Set up a secure EC2 instance with a Bastion Host**
