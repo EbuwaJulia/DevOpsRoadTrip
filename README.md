@@ -30,8 +30,8 @@ This guide is my step by step documentation of how to become a DevOps engineer. 
 9. **Set Up a Basic S3 Backup Solution**
 10. **Build a Simple Dockerized Application and Deploy it to ECS**
 
-#### HOST A  STATIC WEBSITE ON Amazon S3
+#### HOST A  STATIC WEBSITE ON AMAZON S3
 [How to host a static Website on Amazon S3](https://github.com/EbuwaJulia/StaticWebsiteOnS3?tab=readme-ov-file#staticwebsiteons3)
 
-#### SetUp Cloudwatch on an EC2 Instance
+#### SETUP CLOUDWATCH ON AN EC2 INSTANCE
 
