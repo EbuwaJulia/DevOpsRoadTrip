@@ -34,4 +34,6 @@ This guide is my step by step documentation of how to become a DevOps engineer. 
 [How to host a static Website on Amazon S3](https://github.com/EbuwaJulia/StaticWebsiteOnS3?tab=readme-ov-file#staticwebsiteons3)
 
 #### SETUP CLOUDWATCH ON AN EC2 INSTANCE
+[How to set up Cloudwatch monitoring on Ec2 instance]()
+
 
