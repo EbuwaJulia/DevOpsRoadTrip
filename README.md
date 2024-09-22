@@ -34,7 +34,7 @@ This guide is my step by step documentation of how to become a DevOps engineer. 
 [How to host a static Website on Amazon S3](https://github.com/EbuwaJulia/StaticWebsiteOnS3?tab=readme-ov-file#staticwebsiteons3)
 
 #### SETUP CLOUDWATCH ON AN EC2 INSTANCE
-[How to set up Cloudwatch monitoring on Ec2 instance](https://github.com/EbuwaJulia/CloudwatchSetUp/blob/main/README.md#cloudwatchsetup)
+[How to set up Cloudwatch monitoring on EC2 instance](https://github.com/EbuwaJulia/CloudwatchSetUp/blob/main/README.md#cloudwatchsetup)
 
 #### DEPLOY SIMPLE WEB APPLICATION USING AMAZON ELASTIC BEANSTALK
 [Deploy Web Application using Amazon Elastic BeanStalk](https://github.com/EbuwaJulia/Deploy-Web-App-With-Elastic-BeanStalk?tab=readme-ov-file#deploy-web-app-with-elatic-beanstalk)
