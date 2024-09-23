@@ -39,4 +39,7 @@ This guide is my step by step documentation of how to become a DevOps engineer. 
 #### DEPLOY SIMPLE WEB APPLICATION USING AMAZON ELASTIC BEANSTALK
 [Deploy Web Application using Amazon Elastic BeanStalk](https://github.com/EbuwaJulia/Deploy-Web-App-With-Elastic-BeanStalk?tab=readme-ov-file#deploy-web-app-with-elatic-beanstalk)
 
+#### BASIC CI/CD PIPELINE USING AWS CODEPIPELINE
+[How to Create a basic CI/CD Pipeline using AWS CodePipeline]()
+
 
