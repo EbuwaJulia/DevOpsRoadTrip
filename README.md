@@ -42,4 +42,7 @@ This guide is my step by step documentation of how to become a DevOps engineer. 
 #### BASIC CI/CD PIPELINE USING AWS CODEPIPELINE
 [How to Create a basic CI/CD Pipeline using AWS CodePipeline](https://github.com/EbuwaJulia/Basic-CICD-Pipeline-using-AWS-CodePipeline?tab=readme-ov-file#basic-ci-cd-pipeline-using-aws-codepipeline)
 
+### LINUX FUNDAMENTALS (BASHSCRIPTING)
+[Linux Fundamentals (BashScripting)]()
+
 
